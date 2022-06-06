@@ -1,6 +1,27 @@
-# practice_1
+# Welcome! This is a largest heading.
 
-## Update from local machine!
+## The second largest heading. 
+
+### The third largest heading.
+
+#### The fourth largest heading.
+
+##### The fifth largest heading.
+
+###### The smallest heading.
+
+** This is bold text **
+* This is italic *
+
+> Text that is a quote
+
+Distinct Block
+Some basic git commands are:
+```
+git status
+git add
+git commit
+```
 
 - Item1
 - Item2
