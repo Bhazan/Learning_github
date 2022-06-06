@@ -10,8 +10,8 @@
 
 ###### The smallest heading.
 
-** This is bold text **
-* This is italic *
+**This is bold text**
+*This is italic*
 
 > Text that is a quote
 
