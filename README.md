@@ -15,7 +15,7 @@
 
 > Text that is a quote
 
-Distinct Block
+### Distinct Block
 Some basic git commands are:
 ```
 git status
@@ -27,7 +27,7 @@ git commit
 - Item1
 - Item2
 - Item3
-
+require *Distinct Block*
 1. Item1
 2. Item2
 3. Item3
